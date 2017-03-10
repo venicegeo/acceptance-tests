@@ -247,7 +247,7 @@
       "expected": {
         "properties": [
           {
-            "label": "Bayamón, PR"
+            "label": "Bayamón, PRI"
           }
         ]
       }
@@ -266,7 +266,7 @@
       "expected": {
         "properties": [
           {
-            "label": "Aasu, AS"
+            "label": "Aasu, ASM"
           }
         ]
       }
@@ -363,6 +363,23 @@
         "properties": [
           {
             "label": "Bermuda"
+          }
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "status": "fail",
+      "description": "Washington, D.C. venues should have District of Columbia abbreviation",
+      "issue": "https://github.com/pelias/labels/issues/14",
+      "user": "julian",
+      "in": {
+        "text": "national air and space museum, washington dc"
+      },
+      "expected": {
+        "properties": [
+          {
+            "label": "National Air and Space Museum, Washington, D.C., USA"
           }
         ]
       }
