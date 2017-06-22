@@ -62,7 +62,7 @@
     },
     {
       "id": "4",
-      "status": "fail",
+      "status": "pass",
       "endpoint": "reverse",
       "description": "Reverse does not fall back to point-in-polygon for admin areas",
       "issue": [
@@ -123,23 +123,23 @@
         "text": "hoboken"
       },
       "expected": {
+        "priorityThresh": 2,
         "properties": [
           {
-            "name": "West Hoboken",
-            "country_a": "USA",
-            "country": "United States",
-            "region": "New Jersey",
-            "region_a": "NJ",
-            "county": "Hudson County",
-            "label": "West Hoboken, Hoboken, NJ, USA"
+            "gid": "whosonfirst:neighbourhood:85801273",
+            "name": "Hoboken"
+          },
+          {
+            "gid": "whosonfirst:neighbourhood:420509993",
+            "name": "Hoboken"
           }
         ]
       }
     },
     {
       "id": "7",
-      "status": "fail",
-      "description": "the mission is now a macrohood, which we don't yet import",
+      "status": "pass",
+      "description": "returned by placeholder so it works now",
       "issue": "https://github.com/pelias/whosonfirst/issues/213",
       "type": "dev",
       "in": {
@@ -365,14 +365,9 @@
     },
     {
       "id": "15",
-      "status": "fail",
+      "status": "pass",
       "issue": "https://github.com/pelias/pelias/issues/294",
-      "description": [
-        "there are several Hillsides, ensure the correct one comes up",
-        "this behaviour is broken, the Santa Clara County MUST come first!",
-        "added priorityThresh:1 as Hillside, Hillside (Melton), Australia",
-        "should not be returned before 'Hillside, CA, USA'"
-      ],
+      "description": "fixed with pelias/api#850",
       "type": "dev",
       "in": {
         "text": "Hillside, Santa Clara",
@@ -473,7 +468,7 @@
     },
     {
       "id": "19",
-      "status": "fail",
+      "status": "pass",
       "issue": "https://github.com/pelias/pelias/issues/144",
       "description": [
         "Problem in the QS data, so should be fixed once we move to WOF"
@@ -486,7 +481,7 @@
           {
             "layer": "address",
             "housenumber": "5",
-            "street": "West 4th Avenue",
+            "street": "W 4th Ave",
             "country_a": "CAN",
             "country": "Canada",
             "locality": "Vancouver"
