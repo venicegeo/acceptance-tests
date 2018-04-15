@@ -217,6 +217,23 @@
       }
     },
     {
+      "id": 12.1,
+      "status": "pass",
+      "in": {
+        "text": "777 NE martin luther king Portland Oregon"
+      },
+      "expected": {
+        "properties": [
+          {
+            "name": "777 NE Martin Luther King Junior Blvd",
+            "locality": "Portland",
+            "region": "Oregon",
+            "region_a": "OR"
+          }
+        ]
+      }
+    },
+    {
       "id": 13,
       "status": "pass",
       "in": {
