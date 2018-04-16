@@ -21,7 +21,7 @@
       "expected": {
         "properties": [
           {
-            "name": "777 NE MLK Blvd",
+            "name": "777 NE Martin Luther King Junior Blvd",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -38,7 +38,7 @@
       "expected": {
         "properties": [
           {
-            "name": "777 NE MLK Blvd",
+            "name": "777 NE Martin Luther King Junior Blvd",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -55,7 +55,7 @@
       "expected": {
         "properties": [
           {
-            "name": "777 NE MLK Blvd",
+            "name": "777 NE Martin Luther King Junior Blvd",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -72,7 +72,7 @@
       "expected": {
         "properties": [
           {
-            "name": "777 NE MLK Blvd",
+            "name": "777 NE Martin Luther King Junior Blvd",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -89,7 +89,7 @@
       "expected": {
         "properties": [
           {
-            "name": "777 NE MLK Jr Blvd",
+            "name": "777 NE Martin Luther King Junior Blvd",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -106,7 +106,7 @@
       "expected": {
         "properties": [
           {
-            "name": "777 NE MLK Jr Blvd",
+            "name": "777 NE Martin Luther King Junior Blvd",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -123,7 +123,7 @@
       "expected": {
         "properties": [
           {
-            "name": "777 NE MLK Jr Blvd",
+            "name": "777 NE Martin Luther King Junior Blvd",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -140,7 +140,7 @@
       "expected": {
         "properties": [
           {
-            "name": "777 NE MLK Jr Blvd",
+            "name": "777 NE Martin Luther King Junior Blvd",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -157,7 +157,7 @@
       "expected": {
         "properties": [
           {
-            "name": "777 NE ML King Blvd",
+            "name": "777 NE Martin Luther King Junior Blvd",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -174,7 +174,7 @@
       "expected": {
         "properties": [
           {
-            "name": "777 NE ML King Blvd",
+            "name": "777 NE Martin Luther King Junior Blvd",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -191,7 +191,7 @@
       "expected": {
         "properties": [
           {
-            "name": "777 NE ML King Blvd",
+            "name": "777 NE Martin Luther King Junior Blvd",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -208,7 +208,7 @@
       "expected": {
         "properties": [
           {
-            "name": "777 NE ML King Blvd",
+            "name": "777 NE Martin Luther King Junior Blvd",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -310,7 +310,7 @@
       "expected": {
         "properties": [
           {
-            "name": "4004 SW BHH",
+            "name": "4004 SW BEAVERTON HILLSDALE HWY",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -327,7 +327,7 @@
       "expected": {
         "properties": [
           {
-            "name": "4004 SW BHH",
+            "name": "4004 SW BEAVERTON HILLSDALE HWY",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -344,7 +344,7 @@
       "expected": {
         "properties": [
           {
-            "name": "4004 SW BHH",
+            "name": "4004 SW BEAVERTON HILLSDALE HWY",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -361,7 +361,7 @@
       "expected": {
         "properties": [
           {
-            "name": "4004 SW BHH",
+            "name": "4004 SW BEAVERTON HILLSDALE HWY",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -582,8 +582,8 @@
       "expected": {
         "properties": [
           {
-            "name": "17175 SW TV Hwy",
-            "locality": "aloha",
+            "name": "17175 SW TUALATIN VALLEY HWY",
+            "locality": "Aloha",
             "region": "Oregon",
             "region_a": "OR"
           }
@@ -599,8 +599,8 @@
       "expected": {
         "properties": [
           {
-            "name": "17175 SW TV Hwy",
-            "locality": "aloha",
+            "name": "17175 SW TUALATIN VALLEY HWY",
+            "locality": "Aloha",
             "region": "Oregon",
             "region_a": "OR"
           }
@@ -616,8 +616,8 @@
       "expected": {
         "properties": [
           {
-            "name": "17175 SW TV Hwy",
-            "locality": "aloha",
+            "name": "17175 SW TUALATIN VALLEY HWY",
+            "locality": "Aloha",
             "region": "Oregon",
             "region_a": "OR"
           }
@@ -633,8 +633,8 @@
       "expected": {
         "properties": [
           {
-            "name": "17175 SW TV Hwy",
-            "locality": "aloha",
+            "name": "17175 SW TUALATIN VALLEY HWY",
+            "locality": "Aloha",
             "region": "Oregon",
             "region_a": "OR"
           }
@@ -650,8 +650,8 @@
       "expected": {
         "properties": [
           {
-            "name": "17175 SW TVH",
-            "locality": "aloha",
+            "name": "17175 SW TUALATIN VALLEY HWY",
+            "locality": "Aloha",
             "region": "Oregon",
             "region_a": "OR"
           }
@@ -667,8 +667,8 @@
       "expected": {
         "properties": [
           {
-            "name": "17175 SW TVH",
-            "locality": "aloha",
+            "name": "17175 SW TUALATIN VALLEY HWY",
+            "locality": "Aloha",
             "region": "Oregon",
             "region_a": "OR"
           }
@@ -684,8 +684,8 @@
       "expected": {
         "properties": [
           {
-            "name": "17175 SW TVH",
-            "locality": "aloha",
+            "name": "17175 SW TUALATIN VALLEY HWY",
+            "locality": "Aloha",
             "region": "Oregon",
             "region_a": "OR"
           }
@@ -701,8 +701,8 @@
       "expected": {
         "properties": [
           {
-            "name": "17175 SW TVH",
-            "locality": "aloha",
+            "name": "17175 SW TUALATIN VALLEY HWY",
+            "locality": "Aloha",
             "region": "Oregon",
             "region_a": "OR"
           }
@@ -719,7 +719,7 @@
         "properties": [
           {
             "name": "17175 SW TUALATIN VALLEY HWY",
-            "locality": "aloha",
+            "locality": "Aloha",
             "region": "Oregon",
             "region_a": "OR"
           }
@@ -736,7 +736,7 @@
         "properties": [
           {
             "name": "17175 SW TUALATIN VALLEY HWY",
-            "locality": "aloha",
+            "locality": "Aloha",
             "region": "Oregon",
             "region_a": "OR"
           }
@@ -753,7 +753,7 @@
         "properties": [
           {
             "name": "17175 SW TUALATIN VALLEY HWY",
-            "locality": "aloha",
+            "locality": "Aloha",
             "region": "Oregon",
             "region_a": "OR"
           }
@@ -770,7 +770,7 @@
         "properties": [
           {
             "name": "17175 SW TUALATIN VALLEY HWY",
-            "locality": "aloha",
+            "locality": "Aloha",
             "region": "Oregon",
             "region_a": "OR"
           }
@@ -1466,7 +1466,7 @@
       "expected": {
         "properties": [
           {
-            "name": "30 147TH AVE",
+            "name": "30 NE 147 AVE",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -1483,7 +1483,7 @@
       "expected": {
         "properties": [
           {
-            "name": "30 147TH AVE",
+            "name": "30 NE 147 AVE",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -1500,7 +1500,7 @@
       "expected": {
         "properties": [
           {
-            "name": "30 147TH AVE",
+            "name": "30 NE 147 AVE",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -1517,7 +1517,7 @@
       "expected": {
         "properties": [
           {
-            "name": "30 147TH AVE",
+            "name": "30 NE 147 AVE",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -2486,7 +2486,7 @@
       "expected": {
         "properties": [
           {
-            "name": "1721 NE 108TH",
+            "name": "1721 NE 108TH AVE",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -2503,7 +2503,7 @@
       "expected": {
         "properties": [
           {
-            "name": "1721 NE 108TH",
+            "name": "1721 NE 108TH AVE",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -2520,7 +2520,7 @@
       "expected": {
         "properties": [
           {
-            "name": "1721 NE 108TH",
+            "name": "1721 NE 108TH AVE",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
@@ -2537,7 +2537,7 @@
       "expected": {
         "properties": [
           {
-            "name": "1721 NE 108TH",
+            "name": "1721 NE 108TH AVE",
             "locality": "Portland",
             "region": "Oregon",
             "region_a": "OR"
