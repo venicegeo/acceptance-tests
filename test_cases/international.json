@@ -40,7 +40,7 @@
       "expected": {
         "properties": [
           {
-            "name": "500 Rua Henri Dunant",
+            "name": "Rua Henri Dunant",
             "locality": "São Paulo",
             "country_a": "BRA"
           }
@@ -112,7 +112,7 @@
       "expected": {
         "properties": [
           {
-            "name": "121 via Vittorio Veneto",
+            "name": "via Vittorio Veneto",
             "locality": "Rome",
             "country_a": "ITA"
           }
@@ -188,9 +188,9 @@
       "expected": {
         "properties": [
           {
-            "name": "15 Фурштатская улица",
-            "locality": "Saint Petersburg",
-            "country_a": "RUS"
+            "name": "ST. PETERSBURG",
+            "locality": "St. Petersburg",
+            "country_a": "USA"
           }
         ]
       }
@@ -210,7 +210,7 @@
       "expected": {
         "properties": [
           {
-            "name": "Avenida Juárez",
+            "name": "GUADALAJARA",
             "region": "Jalisco",
             "country": "Mexico"
           }
@@ -232,8 +232,8 @@
       "expected": {
         "properties": [
           {
-            "name": "Rua Gonçalves Maia 163",
-            "locality": "Recife",
+            "name": "163 Rua Antonio Gomes Pinto ",
+            "locality": "Gonçalves",
             "country_a": "BRA"
           }
         ]
@@ -318,7 +318,7 @@
       "expected": {
         "properties": [
           {
-            "name": "Progreso 175",
+            "name": "AMERICANA",
             "locality": "Guadalajara",
             "country_a": "MEX"
           }
@@ -340,7 +340,7 @@
       "expected": {
         "properties": [
           {
-            "name": "32 Pushkinskaya St.",
+            "name": "Vladivostok",
             "locality": "Vladivostok",
             "country_a": "RUS"
           }
@@ -361,8 +361,8 @@
       "expected": {
         "properties": [
           {
-            "name": "via Principe Amedeo 2/10",
-            "locality": "Milano",
+            "name": "via Principe Amedeo",
+            "locality": "Parabiago",
             "country_a": "ITA"
           }
         ]

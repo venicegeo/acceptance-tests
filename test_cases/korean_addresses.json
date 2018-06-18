@@ -16,13 +16,13 @@
         "properties": [
           {
             "layer": "address",
-            "street": "자하문로",
-            "county": "종로구",
+            "street": "자하문로36길 청운동 한옥문학 도서관",
+            "county": "용산구",
             "locality": "서울",
             "region": "서울특별시",
             "country": "한국",
             "country_a": "KOR",
-            "label": "한국 서울특별시 종로구 자하문로 94"
+            "label": "한국 서울특별시 용산구 자하문로36길 청운동 한옥문학 도서관 4"
           }
         ]
       }
@@ -42,10 +42,10 @@
             "layer": "address",
             "street": "모세로",
             "county": "광명시",
-            "region": "경기도",
+            "region": "서울특별시",
             "country": "한국",
             "country_a": "KOR",
-            "label": "한국 경기도 광명시 모세로 27"
+            "label": "한국 서울특별시 광명시 모세로 27"
           }
         ]
       }
@@ -63,13 +63,12 @@
       "expected": {
         "properties": [
           {
-            "layer": "address",
-            "street": "허준로",
+            "layer": "county",
             "county": "강서구",
             "region": "서울특별시",
             "country": "한국",
             "country_a": "KOR",
-            "label": "한국 서울특별시 강서구 허준로 139"
+            "label": "한국 서울특별시 강서구"
           }
         ]
       },
@@ -96,11 +95,11 @@
           {
             "layer": "address",
             "street": "서강로9길",
-            "county": "마포구",
+            "county": "용산구",
             "region": "서울특별시",
             "country": "한국",
             "country_a": "KOR",
-            "label": "한국 서울특별시 마포구 서강로9길 12"
+            "label": "한국 서울특별시 용산구 서강로9길 12"
           }
         ]
       }
@@ -118,13 +117,12 @@
       "expected": {
         "properties": [
           {
-            "layer": "address",
-            "street": "중앙로",
-            "county": "제주시",
-            "region": "제주특별자치도",
+            "layer": "venue",
+            "county": "성동구",
+            "region": "서울특별시",
             "country": "한국",
             "country_a": "KOR",
-            "label": "한국 제주특별자치도 제주시 중앙로 236"
+            "label": "한국 서울특별시 성동구 제 2음악관"
           }
         ]
       }
@@ -167,14 +165,13 @@
       "expected": {
         "properties": [
           {
-            "layer": "address",
-            "housenumber": "13-8",
+            "layer": "neighbourhood",
             "neighbourhood": "방배동",
-            "county": "서초구",
+            "county": "용산구",
             "region": "서울특별시",
             "country": "한국",
             "country_a": "KOR",
-            "label": "한국 서울특별시 서초구 방배동 13-8"
+            "label": "한국 서울특별시 용산구 방배동"
           }
         ]
       }
@@ -192,15 +189,12 @@
       "expected": {
         "properties": [
           {
-            "layer": "address",
-            "housenumber": "9",
-            "street": "시민로122번길",
-            "neighbourhood": "의정부동",
+            "layer": "locality",
             "county": "의정부시",
             "region": "경기도",
             "country": "한국",
             "country_a": "KOR",
-            "label": "한국 경기도 의정부시 시민로122번길 9"
+            "label": "한국 경기도 의정부시"
           }
         ]
       },
